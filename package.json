@@ -1,7 +1,7 @@
 {
   "name": "mega-nice-url",
-  "version": "0.0.1",
-  "description": "<description>",
+  "version": "1.0.0",
+  "description": "A mega nice data structure to work with URLs.",
   "main": "lib/url.js",
   "types": "lib/url.d.ts",
   "files": [
