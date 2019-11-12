@@ -1,0 +1,32 @@
+{
+  "name": "mega-nice-url",
+  "version": "0.0.1",
+  "description": "<description>",
+  "main": "lib/url.js",
+  "types": "lib/url.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register test/**/*.spec.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0deritter/mega-nice.url.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Coderitter GmbH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0deritter/mega-nice-url/issues"
+  },
+  "homepage": "https://github.com/c0deritter/mega-nice-url#readme"
+}
