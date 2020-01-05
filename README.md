@@ -11,7 +11,7 @@
 ```typescript
 import Url from 'mega-nice-url'
 
-let url = new Url('http://yourdomain.com:8080/path/to/somehting)
+let url = new Url('http://yourdomain.com:8080/path/to/somehting')
 
 url.protocol == 'http://'
 url.domain == 'yourdomain.com'
