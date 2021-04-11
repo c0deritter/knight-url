@@ -4,7 +4,7 @@ export default class Url {
   domain?: string
   port?: string
   path: string[] = []
-  parameters: UrlParameters = new UrlParameters()
+  parameters: UrlParameters = new UrlParameters
 
   constructor(urlString?: string) {
     if (urlString != undefined) {
@@ -106,5 +106,4 @@ class UrlParameters {
 
     return parameterString
   }
-
 }

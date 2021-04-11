@@ -1,13 +1,12 @@
 {
-  "name": "mega-nice-url",
+  "name": "knight-url",
   "version": "1.0.0",
-  "description": "A mega nice data structure to work with URLs.",
+  "description": "A data structure to work with URLs",
   "main": "lib/url.js",
   "types": "lib/url.d.ts",
   "files": [
     "lib/**/*"
   ],
-  "dependencies": {},
   "devDependencies": {
     "ts-node": "^8.4.1",
     "typescript": "^3.7.2"
@@ -18,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/c0deritter/mega-nice.url.git"
+    "url": "git+https://github.com/c0deritter/knight-url.git"
   },
   "keywords": [
     ""
@@ -26,7 +25,7 @@
   "author": "Coderitter GmbH",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/c0deritter/mega-nice-url/issues"
+    "url": "https://github.com/c0deritter/knight-url/issues"
   },
-  "homepage": "https://github.com/c0deritter/mega-nice-url#readme"
+  "homepage": "https://github.com/c0deritter/knight-url#readme"
 }

@@ -1,15 +1,17 @@
-# Mega Nice URL
+# Knight URL by Coderitter
+
+A data structure to work with URLs.
 
 ## Install
 
-`npm install mega-nice-url`
+`npm install knight-url`
 
 ## Overview
 
 ### Create
 
 ```typescript
-import Url from 'mega-nice-url'
+import Url from 'knight-url'
 
 let url = new Url('http://yourdomain.com:8080/path/to/somehting')
 
